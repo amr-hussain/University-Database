@@ -25,7 +25,7 @@ The goal of this project is to demonstrate database design principles, normaliza
 ---
 
 ## Technologies Used
-- **Database**:  Microsoft SQL Server (specify the one you used).
+- **Database**:  Microsoft SQL Server.
 - **Tools**:
   - Database design tools  Draw.io for ERD creation.
 ---
